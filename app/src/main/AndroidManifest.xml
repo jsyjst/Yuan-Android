@@ -13,6 +13,9 @@
             android:name=".recyclerview.view.RecyclerDemoActivity"
             android:exported="true" />
         <activity
+            android:name=".mvvm.view.CountActivity"
+            android:exported="true" />
+        <activity
             android:name=".view.FirstActivity"
             android:exported="true" />
         <activity
